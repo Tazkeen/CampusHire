@@ -61,10 +61,7 @@ Responses are mapped from `RemoteJob` to our `Job` model. Job data is provided b
 ## 8. Logging
 `Log.d/Log.e` with tags `CampusHireVM` and `OkHttp` record logins, API calls, saves, applications and errors (view in Logcat).
 
-## 9. AI usage statement (max 500 words)
-<Write how you used AI (e.g. Claude to generate the initial project structure, then you reviewed/tested/modified it). Be honest and specific.>
-
-## 10. References
+## 9. References
 - Remotive Jobs API. https://github.com/remotive-com/remote-jobs-api
 - Firebase Authentication & Cloud Firestore docs. https://firebase.google.com/docs
 - Retrofit. https://square.github.io/retrofit/
