@@ -1,0 +1,4 @@
+# add these lines to your .gitignore
+app/google-services.json
+local.properties
+

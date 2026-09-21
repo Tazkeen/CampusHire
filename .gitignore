@@ -1,0 +1,9 @@
+app/google-services.json
+local.properties
+.gradle/
+build/
+app/build/
+*.iml
+.idea/
+gradle/gradle-daemon-jvm.properties
+
