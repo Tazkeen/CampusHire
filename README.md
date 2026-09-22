@@ -51,7 +51,7 @@ Responses are mapped from `RemoteJob` to our `Job` model. Job data is provided b
 - `google-services.json` is kept out of Git and injected from the `GOOGLE_SERVICES_JSON` repository secret.
 - Unit tests: `ValidatorsTest` (email, password, phone, registration rules) and `JobFilterTest` (job type mapping, availability and salary filtering, HTML clean-up).
 
-<!-- Add screenshots: ![Login](docs/login.png) -->
+<!-- Refer to screenshots above: ![Login](docs/Screenshot 1.png) -->
 
 ## 7. How to run
 1. Clone the repo, open in Android Studio (Ladybug or newer).
@@ -61,7 +61,14 @@ Responses are mapped from `RemoteJob` to our `Job` model. Job data is provided b
 ## 8. Logging
 `Log.d/Log.e` with tags `CampusHireVM` and `OkHttp` record logins, API calls, saves, applications and errors (view in Logcat).
 
-## 9. References
+## 9. AI Usage
+AI tools were used only to generate the voice-over narration for the CampusHire demonstration video. The AI voice-over tool converted the prepared demonstration script into spoken audio, which was then used to explain the application’s features and functionality during the video presentation.
+
+The AI tool was used for narration support only. It was not used as a source of academic research, references, or assessment content. The application demonstration, screenshots, functionality, and database evidence shown in the video remain the student’s own assessment work.
+
+AI voice-over generated from the prepared CampusHire demonstration script was acknowledged in the video where applicable.
+
+## 10. References
 - Remotive Jobs API. https://github.com/remotive-com/remote-jobs-api
 - Firebase Authentication & Cloud Firestore docs. https://firebase.google.com/docs
 - Retrofit. https://square.github.io/retrofit/
