@@ -61,14 +61,17 @@ Responses are mapped from `RemoteJob` to our `Job` model. Job data is provided b
 ## 8. Logging
 `Log.d/Log.e` with tags `CampusHireVM` and `OkHttp` record logins, API calls, saves, applications and errors (view in Logcat).
 
-## 9. AI Usage
+## 9. Youtube Link
+https://youtu.be/0jDDV01In5I
+
+## 10. AI Usage
 AI tools were used only to generate the voice-over narration for the CampusHire demonstration video. The AI voice-over tool converted the prepared demonstration script into spoken audio, which was then used to explain the application’s features and functionality during the video presentation.
 
 The AI tool was used for narration support only. It was not used as a source of academic research, references, or assessment content. The application demonstration, screenshots, functionality, and database evidence shown in the video remain the student’s own assessment work.
 
 AI voice-over generated from the prepared CampusHire demonstration script was acknowledged in the video where applicable.
 
-## 10. References
+## 11. References
 - Remotive Jobs API. https://github.com/remotive-com/remote-jobs-api
 - Firebase Authentication & Cloud Firestore docs. https://firebase.google.com/docs
 - Retrofit. https://square.github.io/retrofit/
