@@ -63,6 +63,7 @@ Responses are mapped from `RemoteJob` to our `Job` model. Job data is provided b
 
 ## 9. Youtube Link
 https://youtu.be/0jDDV01In5I
+Update:https://youtu.be/ihLhkWQAHSs
 
 ## 10. AI Usage
 AI tools were used only to generate the voice-over narration for the CampusHire demonstration video. The AI voice-over tool converted the prepared demonstration script into spoken audio, which was then used to explain the application’s features and functionality during the video presentation.
